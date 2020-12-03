@@ -7,4 +7,4 @@ The general project workflow is as follows:
 3. Differential exon usage of isoforms were analysed using DEXSeq. 
 
 Project overview:
-![](https://github.com/Amandahsr/UROPSBulkTissueDeconvolution/blob/master/Results/UROPS%20Project%20Overview.png)
+![](https://github.com/Amandahsr/DifferentialIsoformAnalysis/blob/main/Results/DI%20Project%20Overview.png)
