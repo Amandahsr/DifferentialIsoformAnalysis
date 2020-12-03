@@ -5,3 +5,6 @@ The general project workflow is as follows:
 1. Transcript abundaces were quantified using raw FASTQ files of scRNA-seq data using Kallisto. 
 2. Differential isoform analysis was performed on the Kallisto output using Sleuth. 
 3. Differential exon usage of isoforms were analysed using DEXSeq. 
+
+Project overview:
+![](https://github.com/Amandahsr/UROPSBulkTissueDeconvolution/blob/master/Results/UROPS%20Project%20Overview.png)
